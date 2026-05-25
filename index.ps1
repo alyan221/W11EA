@@ -1,12 +1,2 @@
-cat > ~/projects/W11EA/index.ps1 << 'EOF'
-Write-Host 'W11EA Tool is Working!'
-Write-Host 'Version 0.1'
-Write-Host 'Latest Version From Github!'
-Write-Host 'mm      mm   mmm        mmm     mmmmmmmm     mm'
-Write-Host '##      ##  # ##      # ##     ##""""""    ####'
-Write-Host ' #m ## m#    ##        ##     ##          ####'
-Write-Host ' ## ## ##     ##        ##     #######    ##  ##'
-Write-Host ' ### ###     ##        ##     ##        ######'
-Write-Host ' ###  ###  mmm##mmm  mmm##mmm  ##mmmmmm  m##  ##m'
-Write-Host ':)'
-EOF
+Write-Host "Version : 0.1"
+
